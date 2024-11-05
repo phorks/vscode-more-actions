@@ -1,7 +1,7 @@
 {
   "name": "more-actions",
   "displayName": "More Actions",
-  "description": "Useful actions missing from the set of actions provided by VS Code",
+  "description": "A collection of useful VS Code actions",
   "author": "phorks (Pharaz Fadaei)",
   "publisher": "phorks",
   "icon": "assets/phorksc-128.png",

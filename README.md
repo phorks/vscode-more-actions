@@ -2,7 +2,7 @@
 
 This extension provides some custom actions that I think should have been included in the set of VS Code builtin commands.
 
-These are specially useful when combined with the VSCode Neovim extension, since these commands can be called from the `init.lua` file.
+These are especially useful when combined with the VSCode Neovim extension, since these commands can be called from the `init.lua` file.
 
 Actions:
 
